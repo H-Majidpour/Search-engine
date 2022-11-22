@@ -1,0 +1,7 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Ignore IDE specific files
+.vscode/
+*.sw*
